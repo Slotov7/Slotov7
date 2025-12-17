@@ -12,11 +12,13 @@
 
 
 
-Oi, sou o Guilherme, estudante de Ciência da Computação na UFS. Já me aventurei por JavaScript, HTML, CSS, Python e Java.
-
-Atualmente, estou focado em aprimorar meus conhecimentos em algoritmos e estruturas de dados. Sou entusiasta de projetos práticos e estou sempre aberto a colaborações e feedback.
-
-Se você compartilha interesses em tecnologia, ou se simplesmente quiser trocar ideias, ficarei feliz em conversar. Entre em contato. Vamos conectar nossas linhas de código! 😊
+<p align="center" style="font-size: 1.1rem;">
+    Sou estudante de <b>Ciência da Computação na UFS</b>.
+    <br><br>
+    Busco criar soluções eficientes através de código limpo e boas práticas. Atualmente, estou focado em fortalecer minha base em algoritmos e aplicar esses conceitos em projetos práticos.
+    <br><br>
+    Estou sempre aberto a colaborações e feedbacks. Vamos conectar!
+  </p>
 
 
 
