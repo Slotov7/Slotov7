@@ -23,13 +23,11 @@
 
 
 <p align="center">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Slotov7&count_private=true&include_all_commits=true&show_icons=github&show_icons&theme=dark&hide_border=false&show_owner=true"/>
+  <img height="150em" src="https://github-readme-stats-mocha-two-95.vercel.app/api?username=Slotov7&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slotov7&include_all_commits=true&layout=compact&theme=dark" alt="Top Languages">
-</p>
-   
+  <img src="https://github-readme-stats-mocha-two-95.vercel.app/api/top-langs/?username=Slotov7&include_all_commits=true&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
 
