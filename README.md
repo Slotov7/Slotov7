@@ -4,7 +4,6 @@
   Olá, eu sou o Guilherme! 👋
   <p>
     <a href="https://github.com/Slotov7">
-    <img src="https://komarev.com/ghpvc/?username=Slotov7&color=blueviolet" alt="Profile Views" />
   </a>
   </p>
    
